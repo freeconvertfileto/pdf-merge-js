@@ -2,7 +2,7 @@
 
 Merge multiple PDF files into a single document with drag-to-reorder using pdf-lib, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/pdf-tools/pdf-merge
+**Live Demo:** https://file-converter-free.com/en/pdf-tools/merge-pdf-online-free
 
 ## How It Works
 
